@@ -1,0 +1,14 @@
+Unet-result.png,27,795,47,817,mitosis 
+Unet-result.png,246,533,250,537,mitosis 
+Unet-result.png,246,1431,247,1433,mitosis 
+Unet-result.png,272,1176,285,1189,mitosis 
+Unet-result.png,280,244,285,254,mitosis 
+Unet-result.png,484,1354,509,1383,mitosis 
+Unet-result.png,556,399,573,417,mitosis 
+Unet-result.png,571,512,576,513,mitosis 
+Unet-result.png,577,512,578,513,mitosis 
+Unet-result.png,666,247,673,254,mitosis 
+Unet-result.png,798,221,805,228,mitosis 
+Unet-result.png,1052,239,1068,255,mitosis 
+Unet-result.png,1121,1073,1144,1104,mitosis 
+Unet-result.png,1259,354,1262,357,mitosis 

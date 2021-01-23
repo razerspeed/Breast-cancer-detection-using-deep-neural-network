@@ -12,3 +12,5 @@ First RPN model is trained and then the whole model is trained just like the ori
 
 
 The Faster RCNN code is inspired from https://github.com/yhenon/keras-frcnn/
+
+Medium article link https://medium.com/analytics-vidhya/breast-cancer-detection-using-deep-neural-network-6691a472d7a7
